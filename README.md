@@ -58,10 +58,10 @@ TODO: GitHub 링크, 프로필 사진 업데이트 필요
             <img  src="#"  width="100px;" alt=""/>
         </td>
         <td>
-            <img  src="#"  width="100px;" alt=""/>
+            <img  src="https://avatars.githubusercontent.com/u/72656661?v=4"  width="100px;" alt=""/>
         </td>
         <td>
-            <img  src="#"  width="100px;" alt=""/>
+            <img  src="https://avatars.githubusercontent.com/u/213723698?v=4"  width="100px;" alt=""/>
         </td>
     </tr>
     <tr>
@@ -71,12 +71,12 @@ TODO: GitHub 링크, 프로필 사진 업데이트 필요
             </a>
         </td>
         <td>
-            <a href="#">
+            <a href="https://github.com/A-Bins">
                 <div>김우균</div> 
             </a>
         </td>
         <td>
-            <a href="#">
+            <a href="https://github.com/BXXNXXII">
                 <div>박규빈</div>
             </a>
         </td>
@@ -92,7 +92,7 @@ TODO: GitHub 링크, 프로필 사진 업데이트 필요
             <img  src="#"  width="100px;" alt=""/>
         </td>
         <td>
-            <img  src="#"  width="100px;" alt=""/>
+            <img  src="https://avatars.githubusercontent.com/u/190012362?v=4"  width="100px;" alt=""/>
         </td>
     </tr>
     <tr>
@@ -107,11 +107,9 @@ TODO: GitHub 링크, 프로필 사진 업데이트 필요
             </a>
         </td>
         <td>
-            <a href="#">
+            <a href="https://github.com/selee1012">
                 <div>이성은</div>
             </a>
         </td>
     </tr>
 </table>
-
-
